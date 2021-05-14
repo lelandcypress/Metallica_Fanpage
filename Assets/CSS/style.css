@@ -1,0 +1,9 @@
+body {background-color: rgb(12, 12, 12); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+html {color: white}
+h1 {text-align: center;}
+h2 {font-size: xx-large;}
+h4 {font-size:larger;}
+h5 {font-size:larger;}
+.bio {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: large;}
+table, th, td{border: 1px solid white; width: 40%; text-align: left;}
+.tabletitle {font-size: xx-large;}
